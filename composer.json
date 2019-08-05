@@ -1,0 +1,15 @@
+{
+    "name": "flagbit/magento-newsletter-popup-free",
+    "description": "Newsletter Popup Extension for Magento",
+    "type": "magento-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Magetrend",
+            "homepage": "https://www.magetrend.com/"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
